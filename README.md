@@ -150,4 +150,4 @@ Authorization: Bearer <jwt_token>
 
 ## 👤 Author
 
-Dibuat oleh **[Nama Lengkap Anda]** sebagai bagian dari Coding Test Web Developer — Bilcode Technology.
+Dibuat oleh **Raden Aradeya Risqi Jagat Pertala** sebagai bagian dari Coding Test Web Developer — Bilcode Technology.
